@@ -11,10 +11,9 @@ Mobile Progrmaming Assignment 3
 
 ## ScreenShots
 
-<br />
-![image](https://user-images.githubusercontent.com/100837228/159010458-0a7fe952-1017-4ed9-a53d-1fe9e64bd6c8.png)
+1)Before <br />
+![image](https://user-images.githubusercontent.com/100837228/159011324-993d0e52-bfff-4a8c-bd67-8f9c87a20e67.png)
 
-<br />
-![image](https://user-images.githubusercontent.com/100837228/159010574-e0e726ee-fa90-49df-b1e8-33bb387900a3.png)
-
+2)After <br />
+![image](https://user-images.githubusercontent.com/100837228/159011438-b6faa3a1-86d0-4919-a065-ac600eedec26.png)
 
